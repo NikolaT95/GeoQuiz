@@ -1,5 +1,3 @@
-Projekat iz predmeta Razvoj mobilnih aplikacija (master 2. godina)
-
 elements: Jatpack Compose, Material Theming, ViewModel, Navigation, Retrofit library, Room library
 
 <img src ="https://github.com/user-attachments/assets/19718848-1028-49bd-a6b7-07a5b1052609" width="250" height="450">
